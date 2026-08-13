@@ -21,14 +21,6 @@ The analysis identified a **$109K annualized recovery opportunity** across late-
 | Stockout rate | 10.6% | Above the 8% target |
 | Forecast accuracy | 88.3% | Supports targeted planning improvements |
 
-## Why this project is recruiter-ready
-
-- Frames a real executive decision instead of stopping at charts.
-- Connects financial and operational metrics in one analytical model.
-- Includes reproducible data generation, ETL, validation, SQL, tests, and a deployed decision interface.
-- Documents assumptions and clearly discloses synthetic data.
-- Demonstrates stakeholder communication through an executive brief and prioritized recommendation.
-
 ## Analytical workflow
 
 ```text
