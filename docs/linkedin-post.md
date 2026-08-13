@@ -2,32 +2,26 @@
 
 ## Recommended version
 
-I recently completed my MS in Business Analytics, and I wanted my next portfolio project to answer a real management question—not just produce another dashboard.
+Hello LinkedIn community,
 
-So I built a **Supply Chain Profitability Control Tower**.
+I’m excited to share a new end-to-end Business Analytics project: a **Supply Chain Profitability Control Tower**.
 
-The project analyzes 35,958 validated order lines and connects operational performance to financial impact across revenue, contribution margin, on-time delivery, stockouts, forecast accuracy, and supplier risk.
+The goal was to answer a practical business question: **where are supply chain issues reducing profitability, and which actions should management prioritize?**
 
-Key finding: the model identified a **$109K annualized recovery opportunity** tied to late-freight inefficiency and stockout exposure.
+Using Python and SQL, I generated, cleaned, validated, and analyzed **35,958 order lines**. I then built an interactive dashboard connecting revenue and contribution margin with supplier performance, on-time delivery, stockouts, and forecast accuracy.
 
-My recommendation is a 60-day supplier recovery sprint focused on the lowest-performing suppliers, revised reorder points for high-risk SKUs, and weekly OTIF exception reviews.
+The analysis identified an estimated **$109K annualized recovery opportunity** associated with late-freight inefficiency and stockout exposure. Based on the results, I recommended a 60-day supplier recovery plan, revised reorder points for high-risk products, and weekly delivery-performance reviews.
 
-What I built:
+The dashboard includes filters by year, region, and product category, a supplier risk scorecard, and a scenario simulator showing how operational improvements could translate into recovered value.
 
-• A reproducible Python data-generation and ETL pipeline  
-• Data-quality controls and automated tests  
-• SQL queries built around executive business questions  
-• An interactive dashboard with year, region, and category filters  
-• A scenario simulator that translates service improvement into potential value recovered
+The dataset is synthetic and clearly disclosed, while the complete analytical workflow is reproducible and available on GitHub.
 
-The dataset is synthetic and clearly disclosed, which allowed me to publish the complete workflow safely while keeping the analysis fully reproducible.
+🔗 Live dashboard: https://donovankore.github.io/Supply-Chain-Profitability-Control-Tower/  
+🔗 GitHub repository: https://github.com/donovankore/Supply-Chain-Profitability-Control-Tower
 
-Live dashboard: https://donovan-supply-chain-control-tower.purple-cow-3182.chatgpt.site  
-GitHub repository: [PASTE GITHUB LINK]
+I’d be glad to hear your feedback and connect with professionals working in Business Analytics, Finance, Operations, Supply Chain, or Business Intelligence.
 
-I would value feedback from professionals working in Business Intelligence, Financial Analysis, Operations, or Supply Chain Analytics.
-
-#BusinessAnalytics #DataAnalytics #SupplyChainAnalytics #FinancialAnalysis #SQL #Python #Dashboard #OpenToWork
+#BusinessAnalytics #SupplyChainAnalytics #DataAnalytics #FinancialAnalysis #SQL #Python
 
 ## Short version for a fast application
 
@@ -37,8 +31,8 @@ Using 35,958 validated order lines, I connected supplier performance, stockouts,
 
 The project includes Python ETL, SQL analysis, automated data-quality tests, an interactive executive dashboard, and a scenario simulator.
 
-Live demo: https://donovan-supply-chain-control-tower.purple-cow-3182.chatgpt.site  
-GitHub: [PASTE GITHUB LINK]
+Live demo: https://donovankore.github.io/Supply-Chain-Profitability-Control-Tower/  
+GitHub: https://github.com/donovankore/Supply-Chain-Profitability-Control-Tower
 
 #BusinessAnalytics #SupplyChainAnalytics #FinancialAnalysis #SQL #Python #OpenToWork
 
