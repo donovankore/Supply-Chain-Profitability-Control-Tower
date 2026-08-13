@@ -4,7 +4,7 @@ An end-to-end Business Analytics portfolio project that connects operational ser
 
 > Where is supply-chain performance eroding contribution margin, and which actions should leadership fund first?
 
-**Live dashboard:** Add the deployed demo URL here after publishing  
+**Live dashboard:** [Open the interactive control tower](https://donovan-supply-chain-control-tower.purple-cow-3182.chatgpt.site)  
 **Author:** [Jean Michel Donovan Kore](https://www.linkedin.com/in/donovankore) · MS Business Analytics, 2026
 
 ![Dashboard social preview](public/og.png)

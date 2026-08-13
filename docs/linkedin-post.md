@@ -22,7 +22,7 @@ What I built:
 
 The dataset is synthetic and clearly disclosed, which allowed me to publish the complete workflow safely while keeping the analysis fully reproducible.
 
-Live dashboard: [PASTE DEMO LINK]  
+Live dashboard: https://donovan-supply-chain-control-tower.purple-cow-3182.chatgpt.site  
 GitHub repository: [PASTE GITHUB LINK]
 
 I would value feedback from professionals working in Business Intelligence, Financial Analysis, Operations, or Supply Chain Analytics.
@@ -37,7 +37,7 @@ Using 35,958 validated order lines, I connected supplier performance, stockouts,
 
 The project includes Python ETL, SQL analysis, automated data-quality tests, an interactive executive dashboard, and a scenario simulator.
 
-Live demo: [PASTE DEMO LINK]  
+Live demo: https://donovan-supply-chain-control-tower.purple-cow-3182.chatgpt.site  
 GitHub: [PASTE GITHUB LINK]
 
 #BusinessAnalytics #SupplyChainAnalytics #FinancialAnalysis #SQL #Python #OpenToWork
